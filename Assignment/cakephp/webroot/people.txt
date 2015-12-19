@@ -1,0 +1,17 @@
+Array
+(
+    [forename] => susheel
+    [surname] => hghghgh
+    [address] => ghghgh
+    [city] => ddddd
+    [province] => Quebec
+    [postalcode] => 76787
+    [telephonenumber] => 878
+    [email] => blogentry.in@gmail.com
+    [numberofpizzas] => 7
+    [radiosize] => Extralarge
+    [crusttype] => StuffedCrust
+    [toppings] => Pepperoni Olives Bacon Peppers Ham Tomatoes Pineapple
+    [price] => 25
+)
+susheel hghghgh ghghgh ddddd Quebec 76787 878 blogentry.in@gmail.com 7 Extralarge StuffedCrust Pepperoni Olives Bacon Peppers Ham Tomatoes Pineapple 25susheel hghghgh hjh jhjh Manitoba 76787 8787 susheelhbti@gmail.com 34343 medium StuffedCrust Sausage Olives Peppers Pineapple 18.5fdf rerr rfrfregfrg fgfgf Quebec b4c5n8 234-546-7890 hfhfjkdhfjdf@yahoo.com 5 large ThinCrust Sausage Olives 10.5
